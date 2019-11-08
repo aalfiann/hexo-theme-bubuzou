@@ -1,3 +1,6 @@
+# hexo-theme-bubuzou (fork)
+This forked version is having same feature with original, this only backup and for personal use with **Hexo 4**.
+
 ![hexo-theme-bubuzou](https://raw.githubusercontent.com/Bulandent/hexo-theme-bubuzou/master/source/images/readme.png)
 
 ## 更新日志
